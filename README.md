@@ -1,4 +1,4 @@
-## Hi there 👋<br>🚀Iam Abdulrahman Hossieni | Data Engineer & AI Enthusiast<br>
+## Hi there 👋<br>🚀Iam Abdulrahman Hossieni | Software Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-hussieni)[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:abdohossieny@gmail.com)
 
